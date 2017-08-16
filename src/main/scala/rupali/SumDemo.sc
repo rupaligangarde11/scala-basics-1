@@ -25,3 +25,7 @@ def product (xs:List[Int]): Int = {
 
 sum(List(1,2,3,4))
 product(List(1,2,3,4))
+
+
+// generify the interface and method
+// generic at method level

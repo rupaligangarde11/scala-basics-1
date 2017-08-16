@@ -22,3 +22,4 @@ def increment(xs: List[Int]): List[Int] = {
 
 increment(List(1,2,3,4))
 square(List(1,2,3,4))
+
